@@ -27,7 +27,7 @@ To get started with any of the code in this repository, navigate to the relevant
 ### 1. [Why Fixed Effects Are Not a Silver Bullet](http://vladislav-morozov.github.io/blog/statistics/heterogeneity/2025-02-01-fixed_effects_danger/)
 **Summary**: Why adding (more) fixed effects is not a silver bullet for the problem of unobserved heterogeneity and 3 things you can do about it. Repository contains Python simulation code.
 <figure>
-  <img src="https://vladislav-morozov.github.io/assets/img/blog/blog_fe_bias_kde.gif" alt="How adding fixed effects may lead to bias">
+  <img src="Statistics/Heterogeneity/fixed-effects-dangers/img/blog_fe_bias_kde_simplified.gif" alt="How adding fixed effects may lead to bias">
   <figcaption>Graphical summary of results: adding fixed effects may lead to more biased estimates</figcaption>
 </figure>
   
