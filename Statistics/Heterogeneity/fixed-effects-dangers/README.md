@@ -20,9 +20,9 @@ The simulation compares:
  
 The following image summarizes the main point of the simulation: adding fixed effects can lead to dramatic bias (even if the fixed effects are correctly specified!):
 <figure>
-  <img src="https://vladislav-morozov.github.io/assets/img/blog/blog_fe_bias_kde.gif" alt="How adding fixed effects may lead to bias">
+  <img src="img/blog_fe_bias_kde_simplified.gif" alt="How adding fixed effects may lead to bias">
   <figcaption>Graphical summary of results: adding fixed effects may lead to more biased estimates</figcaption>
-</figure>
+</figure> 
   
 
 ## 📂 Project Structure
