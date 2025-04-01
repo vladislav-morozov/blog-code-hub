@@ -21,7 +21,7 @@ The simulation compares:
 The following image summarizes the main point of the simulation: adjusted multiple testing can lead to a massive loss of power compared to simultaneous testing. However, in some cases simultaneous testing actually performs slightly worse.
 <figure>
   <img src="img/power_animated_small.gif" alt="Why we do simultaneous and not multiple tests">
-  <figcaption>Graphical summary of results: the upside of simultaneous tests is possibly much larger than the possible downsides</figcaption>
+  <figcaption>Graphical summary of results: simultaneous tests may be more powerful by a large margin, but not always.</figcaption>
 </figure> 
   
 
