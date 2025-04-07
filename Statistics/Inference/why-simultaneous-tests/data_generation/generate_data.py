@@ -10,7 +10,7 @@ Functions:
             x_mean: np.ndarray,
             x_covar: np.ndarray,
             resid_var: np.ndarray,
-            seed: int = NotImplemented,
+            seed: int = None,
         ) -> pd.DataFrame:
         Generates a synthetic dataset according to DGP of the post.
 """
@@ -25,7 +25,7 @@ def generate_data(
     x_mean: np.ndarray,
     x_covar: np.ndarray,
     resid_var: np.ndarray,
-    seed: int = NotImplemented,
+    seed: int = None,
 ) -> pd.DataFrame:
     """Generates a dataset with num_observations, normal covariates and shocks.
 
