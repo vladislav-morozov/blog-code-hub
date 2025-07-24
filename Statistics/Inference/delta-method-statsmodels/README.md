@@ -32,7 +32,8 @@ The example in the post estimates the relationship between wages and experience.
 │   ├── data_preparation.py      
 │   ├── delta_method_analysis.py    
 ├── main.py                        
-└── README.md               
+└── README.md  
+└── requirements.txt                      
 ```
 
 ## ▶️ Usage
